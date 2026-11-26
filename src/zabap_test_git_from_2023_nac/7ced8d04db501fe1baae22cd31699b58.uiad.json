@@ -1,0 +1,32 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "",
+    "originalLanguage": "en"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "ZTC_ABAP_PROCESSING_CENTER"
+  },
+  "ui5AppDetails": {
+    "appId": "zmh.zabapgit2023",
+    "icfPath": "/sap/bc/ui5_ui5/sap/zabapgit2023"
+  },
+  "navigation": {
+    "targetMappingId": "7CED8D04DB501FE1BAAE22CD31699B58_TM",
+    "semanticObject": "ZABAP_TEST_GIT_FROM_2023_NAC",
+    "action": "show",
+    "desktop": true,
+    "tablet": true
+  },
+  "tiles": [
+    {
+      "id": "7CED8D04DB501FE1BAAE2B4C3A35DB58",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "zmh"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZC_ABAPTESTGIT2023'
+define service ZUI_ABAPTESTGIT2023_O4 {
+  expose ZC_ABAPTESTGIT2023;
+}
