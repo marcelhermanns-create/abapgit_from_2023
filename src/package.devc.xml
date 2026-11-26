@@ -4,6 +4,7 @@
   <asx:values>
    <DEVC>
     <CTEXT>ABAP Git Test from 2023 to 2025</CTEXT>
+    <PACKKIND>5</PACKKIND>
     <SRV_CHECK>X</SRV_CHECK>
    </DEVC>
   </asx:values>
